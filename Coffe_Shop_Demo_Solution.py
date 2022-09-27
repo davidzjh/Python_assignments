@@ -1,8 +1,7 @@
 # This is a program to calculate the price of x cups
 def main(): #<-- Don't change this line!
     # Write your code below. It must be indented!
-
-
+    
     # input: price of one cup-number of cups
     price_of_one_cup = 3.25
     tax_rate = 1.15
