@@ -9,7 +9,6 @@ def main(): #<-- Don't change this line!
     print("We sell coffee for $ " + str(price_of_one_cup) + " per cup!")
     number_of_cups = input("please enter the number of cups:")
 
-
     # processing: total_pre_tax = price of one cup * number of cups
                  # total_post_tax = total_pre_tax * tax_rate
     total_pre_tax = price_of_one_cup * int(number_of_cups)
